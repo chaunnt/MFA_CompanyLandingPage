@@ -1,0 +1,235 @@
+[
+    {
+        "name": "Huỳnh Quang Huy",
+        "job": "CEO",
+        "conten": "Kinh nghiệm phát triển các ứng dụng di động cho doanh nghiệp",
+        "img": "https://makefamousapp.com/Makefamousapp/PICMEMBER640x640/huy_huynh.png",
+        "phone": "0909 179 042",
+        "email": "quanghuy9742@gmail.com",
+        "address": "133 Ni Sư Huỳnh Liên, P.10, Q.Tân Bình, TP. Hồ Chí Minh",
+        "project": [
+            {
+                "img": "https://makefamousapp.com/images/vietrice/vietrice.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/hospitalbooking/hospitalbooking.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/healthcare/lifesum_icon.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/News/news.png"
+            }
+        ],
+        "PresonalProject": [
+            {
+                "img": "https://makefamousapp.com/images/vietrice/vietrice.png"
+            }
+        ]
+    },
+    {
+        "name": "Chou Nguyễn",
+        "job": "CTO",
+        "conten": "Kinh nghiệm phát triển các ứng dụng di động cho doanh nghiệp, từng làm việc tại các công ty lớn trong lĩnh vực phần mềm",
+        "img": "https://makefamousapp.com/Makefamousapp/PICMEMBER640x640/chou_nguyen.png",
+        "phone": "0343 902 960",
+        "email": "chaupad@gmail.com",
+        "address": "52/6 đường số 6, P.7, Q. Gò Vấp, TP. Hồ Chí Minh",
+        "project": [
+            {
+                "img": "https://makefamousapp.com/images/ahamove/ahamove.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/popsy/popsy.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/cooky/cooky.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/medigo/medigo.png"
+            }
+        ],
+        "PresonalProject": [
+            {
+                "img": "https://makefamousapp.com/images/timnha24h/timnha24h.png"
+            }
+        ]
+    },
+    {
+        "name": "Kha Lee",
+        "job": "Developer",
+        "conten": "Kinh nghiệm phát triển các ứng dụng di động cho doanh nghiệp",
+        "img": "https://makefamousapp.com/Makefamousapp/PICMEMBER640x640/kha_lee.png",
+        "phone": "0358 392 954",
+        "email": "khalb93@gmail.com",
+        "address": "133 Ni Sư Huỳnh Liên, P.10, Q.Tân Bình, TP. Hồ Chí Minh",
+        "project": [
+            {
+                "img": "https://makefamousapp.com/images/News/news.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/timetree/timetree.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/smarthome1/smarthome.png"
+            }
+        ],
+        "PresonalProject": [
+            {
+                "img": "https://makefamousapp.com/images/travel/travel.png"
+            }
+        ]
+    },
+    {
+        "name": "Phúc Lê",
+        "job": "Android Developer",
+        "conten": "Kinh nghiệm phát triển các ứng dụng di động cho doanh nghiệp",
+        "img": "https://makefamousapp.com/Makefamousapp/PICMEMBER640x640/phuc_nguyen.png",
+        "phone": "0909 179 042",
+        "email": "linkedin.com/in/lehongphucit",
+        "address": "133 Ni Sư Huỳnh Liên, P.10, Q.Tân Bình, TP. Hồ Chí Minh",
+        "project": [
+            {
+                "img": "https://makefamousapp.com/images/weship/weship.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/tasty/tasty.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/todoist/todoist.png"
+            }       
+        ],
+        "PresonalProject": [
+            {
+                "img": "https://makefamousapp.com/images/gat/gat.jpg"
+            }
+        ]
+    },
+    
+    {
+        "name": "Kiên La",
+        "job": "Hardware Engineer",
+        "conten": "Kinh nghiệm phát triển các ứng dụng di động cho doanh nghiệp",
+        "img": "https://makefamousapp.com/Makefamousapp/PICMEMBER640x640/kien_la.png",
+        "phone": "0909 179 042",
+        "email": "linkedin.com/in/kien-la-151a48163",
+        "address": "133 Ni Sư Huỳnh Liên, P.10, Q.Tân Bình, TP. Hồ Chí Minh",
+        "project": [
+            {
+                "img": "https://makefamousapp.com/images/travel/travel.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/Etsy/etsy.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/carsharing/carsharing.png"
+            }
+        ],
+        "PresonalProject": [
+            {
+                "img": "https://makefamousapp.com/images/onlinegroceries/onlinegroceries.png"
+            }
+        ]
+    },
+    {
+        "name": "Tấn Trường",
+        "job": "Mobile Expert",
+        "conten": "Kinh nghiệm phát triển các ứng dụng di động cho doanh nghiệp",
+        "img": "https://makefamousapp.com/Makefamousapp/PICMEMBER640x640/tan_nguyen.png",
+        "phone": "0909 179 042",
+        "email": "linkedin.com/in/tan-truong-217534161",
+        "address": "133 Ni Sư Huỳnh Liên, P.10, Q.Tân Bình, TP. Hồ Chí Minh",
+        "project": [
+            {
+                "img": "https://makefamousapp.com/images/culturetrip/culturetrip_logo.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/bds/bds.jpg"
+            },
+            {
+                "img": "https://makefamousapp.com/images/watchecommerce/watchecommerce.png"
+            }
+        ],
+        "PresonalProject": [
+            {
+                "img": "https://makefamousapp.com/images/hospitalbooking/hospitalbooking.png"
+            }
+        ]
+    },
+    {
+        "name": "Cường Mai",
+        "job": "Quality Assurance",
+        "conten": "Kinh nghiệm phát triển các ứng dụng di động cho doanh nghiệp",
+        "img": "https://makefamousapp.com/Makefamousapp/PICMEMBER640x640/cuong_mai.png",
+        "phone": "0909 179 042",
+        "email": "linkedin.com/in/thanh-cuong-mai-576349114",
+        "address": "133 Ni Sư Huỳnh Liên, P.10, Q.Tân Bình, TP. Hồ Chí Minh",
+        "project": [
+            {
+                "img": "https://makefamousapp.com/images/fahasa/fahasa.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/headspace/headspace1.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/gat/gat.jpg"
+            }
+        ],
+        "PresonalProject": [
+            {
+                "img": "https://makefamousapp.com/images/hospitalbooking/hospitalbooking.png"
+            }
+        ]
+    },
+    {
+        "name": "Dũng Bùi",
+        "job": "Fullstack Developer",
+        "conten": "Kinh nghiệm phát triển các ứng dụng di động cho doanh nghiệp",
+        "img": "https://makefamousapp.com/Makefamousapp/PICMEMBER640x640/dung_bui.png",
+        "phone": "0909 179 042",
+        "email": "dungbt007@gmail.com",
+        "address": "133 Ni Sư Huỳnh Liên, P.10, Q.Tân Bình, TP. Hồ Chí Minh",
+        "project": [
+            {
+                "img": "https://makefamousapp.com/images/sephora/sephora.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/fitbod/fitbod.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/skyscanner/skyscanner.png"
+            }
+        ],
+        "PresonalProject": [
+            {
+                "img": "https://makefamousapp.com/images/smarthome1/smarthome.png"
+            }
+        ]
+    },
+    {
+        "name": "Cường Nguyễn",
+        "job": "iOS Developer",
+        "conten": "Kinh nghiệm phát triển các ứng dụng di động cho doanh nghiệp",
+        "img": "https://makefamousapp.com/Makefamousapp/PICMEMBER640x640/cuong_nguyen.png",
+        "phone": "0909 179 042",
+        "email": "linkedin.com/in/ho-cuong-246708117",
+        "address": "133 Ni Sư Huỳnh Liên, P.10, Q.Tân Bình, TP. Hồ Chí Minh",
+        "project": [
+            {
+                "img": "https://makefamousapp.com/images/weship/weship.png"
+            },
+            {
+                "img": "https://makefamousapp.com/images/techcrunch/techcrunch.jpg"
+            },
+            {
+                "img": "https://makefamousapp.com/images/meetup/meetup.jpg"
+            }
+        ],
+        "PresonalProject": [
+            {
+                "img": "https://makefamousapp.com/images/ivivu/ivivu.png"
+            }
+        ]
+    }
+
+]

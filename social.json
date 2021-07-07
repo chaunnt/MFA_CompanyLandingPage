@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Facebook",
+        "url": "https://facebook.com/MakeFamousApp",
+        "img": "https://makefamousapp.com/images/ic_fb.png"
+    },
+    {
+        "name":"Twitter",
+        "url":"https://twitter.com/makefamousapp",
+        "img":"https://makefamousapp.com/images/ic_tw.png"
+    },
+    {
+        "name":"LinkedIn",
+        "url":"https://www.linkedin.com/in/make-famous-app-4a702720b/",
+        "img":"https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"
+    },
+    {
+        "name":"Instagram",
+        "url":"https://www.instagram.com/makefamousapp66/",
+        "img":"https://image.flaticon.com/icons/png/512/2111/2111463.png"
+    },
+    {
+        "name":"Google",
+        "url":"makefamousapp66@gmail.com",
+        "img":"https://makefamousapp.com/images/ic_ct_8.png"
+    },
+    {
+        "name":"Zalo",
+        "url":"zalo.me/395543521531761746",
+        "img":"https://makefamousapp.com/images/ic_ct_4.png"
+    }
+
+]
